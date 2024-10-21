@@ -39,7 +39,7 @@ The dashboard consists of the following sections:
 - **Company Contributions**: A bar chart highlighting which companies drove the most sales.
 - **Customer Response to Ads**: A comparison of customer responses to catalog and in-store advertisements.
 
-<img src= "https://github.com/VasanthM27/Netflix-Data-Analysis/blob/main/heat%20map.png" />
+<img src= "https://github.com/VasanthM27/Sales-Performance-Dashboard/blob/main/Folder/Looker.png" />
 
 ## Conclusion
 This project provided valuable insights into retail sales performance across different segments, countries, and promotion strategies. The analysis helped identify top products, key sales channels, and customer behavior trends, supporting better business decision-making.
