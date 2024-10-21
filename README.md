@@ -51,4 +51,4 @@ Further analysis could be conducted to:
 - Explore sales trends across different time periods (weekly, monthly).
 
 **Project Name**: Retail Sales Performance Analysis  
-**Technologies**: Looker, DAX, Google sheets, Excel    
+**Technologies**: Looker, Google sheets, Excel    
